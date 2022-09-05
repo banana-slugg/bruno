@@ -10,7 +10,7 @@
     <!-- -->
 
     <div class="h-screen">
-        <div class="grid grid-flow-col auto-cols-auto h-full justify-items-center place-items-center w-full">
+        <div class="grid grid-flow-col auto-cols-auto h-full justify-items-center place-items-center">
             <SideConf />
             <div class="grid grid-flow-row auto-rows-auto justify-items-center text-center place-items-center h-full">
                 <Title />

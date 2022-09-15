@@ -9,7 +9,7 @@
     <ScreenConf />
     <!-- -->
 
-    <div class="h-screen">
+    <div class="h-screen z-10">
         <div class="grid grid-flow-col auto-cols-auto h-full justify-items-center place-items-center">
             <SideConf />
             <div class="grid grid-flow-row auto-rows-auto justify-items-center text-center place-items-center h-full">

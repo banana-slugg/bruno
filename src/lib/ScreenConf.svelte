@@ -2,7 +2,7 @@
     import { Confetti } from "svelte-confetti";
 </script>
 
-<div class="fixed -top-8 left-0 h-screen w-screen flex justify-center overflow-hidden">
+<div class="fixed -top-8 left-0 h-screen w-screen flex justify-center overflow-hidden select-none">
     <Confetti
         x={[-5, 5]}
         y={[0, 0.1]}
